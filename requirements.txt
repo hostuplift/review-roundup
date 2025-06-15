@@ -3,4 +3,5 @@ requests==2.31.0
 pandas==2.2.1
 apify-client==1.6.3
 openai==1.12.0
-python-dateutil==2.8.2 
+python-dateutil==2.8.2
+numpy==1.26.4 
